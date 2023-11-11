@@ -1,0 +1,110 @@
+/* LandingPage.css */
+/* .landing-page {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #0074c2;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  footer {
+    background-color: #eee;
+    padding: 10px 0;
+  }
+   */
+
+   /* new changes */
+/* 
+*, *:before , *::after{
+  padding: 0;
+  margin: 0;
+  box-sizing:border-box;
+}
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #333;
+}
+.logo{
+  width: 100px;
+}
+.header{
+  width:100% ;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+
+}
+header nav{
+  background-color: red;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header ul{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header ul a {
+  text-decoration: none;
+  color: #fff;
+  padding: 0 1.5rem;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 0.83;
+}
+
+.hamburger{
+  padding-left: 1.5rem;
+}
+
+.hamburger a{
+  width: 37px;
+  height: 37px;
+  display: flex;
+  border-radius: 50%;
+  background-color: rgba(115,115,115, 0.7);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  justify-content:center;
+  align-items: center;
+}
+.hamburger .bar{
+  position: relative;
+  width: 52%;
+  background-color: #fff;
+  border-radius: 2px;
+}
+
+.hamburger .bar::before , .hamburger .bar::after{
+  content: "";
+  position: absolute;
+  left:50%;
+  transform: translateX(-50%);
+  width: 60%;
+  height: 100%;
+  background-color: inherit;
+  border-radius: 2px;
+}
+.hamburger .bar::before{
+  top:-4.5px;
+}
+
+.hamburger .bar::after{
+  top: 4.5px;
+} */
